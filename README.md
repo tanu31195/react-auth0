@@ -1,3 +1,7 @@
+https://auth0.com/docs/quickstart/spa/react
+
+https://auth0.github.io/auth0-react/
+
 npm i @auth0/auth0-react
 
 npm i react-json-pretty
